@@ -18,7 +18,7 @@ description = "Geological Systems"
 
 setup(
     name='geosys',
-    version='0.1',
+    version='0.1.1',
     packages=['geosys'],
     url='https://github.com/ShadowCodeCz/geosys',
     project_urls={
