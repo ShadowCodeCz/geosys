@@ -1,4 +1,12 @@
 # GEOSYS
+
+[![PyPI-Status](https://img.shields.io/pypi/v/geosys.svg?style=flat-square)](https://pypi.org/project/geosys/)
+[![PyPI - Status](https://img.shields.io/pypi/status/geosys?style=flat-square)](https://pypi.org/project/geosys/)
+[![PyPI-Versions](https://img.shields.io/pypi/pyversions/geosys.svg?style=flat-square)](https://pypi.org/project/geosys/)
+[![GitHub issues](https://img.shields.io/github/issues/ShadowCodeCz/geosys?style=flat-square)](https://github.com/ShadowCodeCz/geosys/issues)
+[![Travis (.com) branch](https://img.shields.io/travis/com/ShadowCodeCz/geosys/master?style=flat-square)](https://travis-ci.com/ShadowCodeCz/geosys)
+[![GitHub license](https://img.shields.io/github/license/ShadowCodeCz/geosys?style=flat-square)](https://github.com/ShadowCodeCz/geosys/blob/master/LICENSE)
+
 Geosys is the acronym **Geo**logical **Sys**tems. In current version, it is small package which contains only one function.
 The function converts GPS coordinates (longitude, latitude and altitude) to cartesian system. Used referenced ellipsoid is [WSG 84] (also known as WGS 1984, EPSG:4326).    
 
